@@ -1,2 +1,1 @@
-"# MogokYa" 
-"# MogokYa" 
+MogokYa App
