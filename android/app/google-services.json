@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397112854871",
+    "project_id": "app-289d9",
+    "storage_bucket": "app-289d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397112854871:android:d47f2850d111cb3c0dd612",
+        "android_client_info": {
+          "package_name": "com.example.mogokya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397112854871-bld3rlj5imbgpr35209jh0bgg6oss252.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRBLgueWWNqUHOlPhKXU0vg-hGZdBJ57s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397112854871-bld3rlj5imbgpr35209jh0bgg6oss252.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
