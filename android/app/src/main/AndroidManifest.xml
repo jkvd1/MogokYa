@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="mogokya"
+=======
+        android:label="bengkel_online"
+>>>>>>> 8c6cdea (Fix Code)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
