@@ -1,12 +1,19 @@
 {
   "project_info": {
+<<<<<<< HEAD
     "project_number": "397112854871",
     "project_id": "app-289d9",
     "storage_bucket": "app-289d9.appspot.com"
+=======
+    "project_number": "1063448317675",
+    "project_id": "fir-mogokya",
+    "storage_bucket": "fir-mogokya.appspot.com"
+>>>>>>> 8c6cdea (Fix Code)
   },
   "client": [
     {
       "client_info": {
+<<<<<<< HEAD
         "mobilesdk_app_id": "1:397112854871:android:d47f2850d111cb3c0dd612",
         "android_client_info": {
           "package_name": "com.example.mogokya"
@@ -21,16 +28,31 @@
       "api_key": [
         {
           "current_key": "AIzaSyCRBLgueWWNqUHOlPhKXU0vg-hGZdBJ57s"
+=======
+        "mobilesdk_app_id": "1:1063448317675:android:3d12e831ea470873b8b8ae",
+        "android_client_info": {
+          "package_name": "com.example.bengkel_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3iq1hU0Z43r4Pt-lDmwJ84hGMp5JI6MU"
+>>>>>>> 8c6cdea (Fix Code)
         }
       ],
       "services": {
         "appinvite_service": {
+<<<<<<< HEAD
           "other_platform_oauth_client": [
             {
               "client_id": "397112854871-bld3rlj5imbgpr35209jh0bgg6oss252.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
+=======
+          "other_platform_oauth_client": []
+>>>>>>> 8c6cdea (Fix Code)
         }
       }
     }
