@@ -1,4 +1,4 @@
-# bengkel_online
+# MogokYa
 
 <<<<<<< HEAD
 ![Mogokya_White](https://github.com/HareIsHere/MogokYa/assets/106960377/920a234f-4392-4a31-907f-96a505408b21)
